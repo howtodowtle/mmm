@@ -2,7 +2,7 @@
 
 A simple market maker bot for [Manifold](https://manifold.markets/). Finds inefficiencies on [Manifold](https://manifold.markets/) and bets on them.
 
-> NB: This is not a fully functional library but rather open sourcing a fun personal project in case anyone wants to build on this (or take individual ideas or parts). 
+> NB: This is not a fully functional library but rather open sourcing a fun personal project in case anyone wants to build on this (or take individual ideas or parts). `mmm` was built iteratively while exploring Manifold and has been moving fast (with and like Manifold itself), so many functions might not work with the current version of Manifold. I stopped developing and using `mmm` when Manifold introduced a bot tax and I felt I was spending too much time on Manifold.
 
 ## Features
 
