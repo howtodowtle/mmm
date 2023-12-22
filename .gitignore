@@ -1,0 +1,8 @@
+markets*.pkl
+.ipynb_checkpoints
+*.pyc
+__pycache__
+geckodriver.log
+*.csv
+data
+dev
